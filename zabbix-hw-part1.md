@@ -11,8 +11,8 @@
 
 Непонял, какие именно команды тут прикладывать, ну, например, использовал такие:
 
-git commit -m "First commit for Zabbix HW part 1"
-git push
+* git commit -m "First commit for Zabbix HW part 1"
+* git push
 
 ### Задание 2
 

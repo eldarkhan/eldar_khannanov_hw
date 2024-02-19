@@ -6,7 +6,7 @@
 **Создайте свой шаблон, в котором будут элементы данных, мониторящие загрузку CPU и RAM хоста.**
 
 Ответ 1:  Скриншот шаблона:
-![Скриншот шаблона](https://github.com/eldarkhan/eldar_khannanov_hw/blob/main/img/Eldar-zabbix-hw2-scr-1.jpg)
+![Задание 1](https://github.com/eldarkhan/eldar_khannanov_hw/blob/main/img/Eldar-zabbix-hw2-scr-1.jpg)
 
 ### Задание 2
 
@@ -16,9 +16,12 @@
 ### Задание 3
 
 **Привяжите созданный шаблон к двум хостам. Также привяжите к обоим хостам шаблон Linux by Zabbix Agent.**  
-Ответ 1:  Скриншот страницы хостов:
-![Скриншот страницы хостов](https://github.com/eldarkhan/eldar_khannanov_hw/blob/main/img/Eldar-zabbix-hw2-scr-2.jpg)
+Ответ 2-3:  Скриншот страницы хостов:
+![Задание 2-3](https://github.com/eldarkhan/eldar_khannanov_hw/blob/main/img/Eldar-zabbix-hw2-scr-2.jpg)
 
 ### Задание 4
 
 **Создайте свой кастомный дашборд.**
+
+Ответ 4:  Мой кастомный дашборд:
+![Задание 4](https://github.com/eldarkhan/eldar_khannanov_hw/blob/main/img/Eldar-zabbix-hw2-scr-3.jpg)

@@ -17,7 +17,7 @@
 
 # Решение задания 1:
 
-![Скрин 1](https://github.com/eldarkhan/eldar_khannanov_hw/blob/main/eldar-hw-8-02/img/hw-8-02_1.png)
+![Скрин 1](https://github.com/eldarkhan/eldar_khannanov_hw/blob/main/eldar-hw-gitlab/img/GitLab-hw-scr1.png)
 
 
 ---
@@ -37,23 +37,10 @@
 ---
 # Решение задания 2:
 
-![Скрин 4](https://github.com/eldarkhan/eldar_khannanov_hw/blob/main/eldar-hw-8-02/img/hw-8-02_4.png)
-![Скрин 5](https://github.com/eldarkhan/eldar_khannanov_hw/blob/main/eldar-hw-8-02/img/hw-8-02_5.png)
----
-
-### Задание 3
-
-**Что нужно сделать:**
-
-1. Установите на машину Nexus.
-1. Создайте raw-hosted репозиторий.
-1. Измените pipeline так, чтобы вместо Docker-образа собирался бинарный go-файл. Команду можно скопировать из Dockerfile.
-1. Загрузите файл в репозиторий с помощью jenkins.
-
-В качестве ответа пришлите скриншоты с настройками проекта и результатами выполнения сборки.
+![Скрин 2](https://github.com/eldarkhan/eldar_khannanov_hw/blob/main/eldar-hw-gitlab/img/GitLab-hw-scr1.png)
 
 ---
-# Решение задания 3:
+
 
 ![Скрин 6](https://github.com/eldarkhan/eldar_khannanov_hw/blob/main/eldar-hw-8-02/img/hw-8-02_6.png)
 ![Скрин 7](https://github.com/eldarkhan/eldar_khannanov_hw/blob/main/eldar-hw-8-02/img/hw-8-02_7.png)

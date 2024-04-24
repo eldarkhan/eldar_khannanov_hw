@@ -37,12 +37,6 @@
 ---
 # Решение задания 2:
 
-![Скрин 2](https://github.com/eldarkhan/eldar_khannanov_hw/blob/main/eldar-hw-gitlab/img/GitLab-hw-scr1.png)
+![Скрин 2](https://github.com/eldarkhan/eldar_khannanov_hw/blob/main/eldar-hw-gitlab/img/GitLab-hw-scr2.png)
 
----
-
-
-![Скрин 6](https://github.com/eldarkhan/eldar_khannanov_hw/blob/main/eldar-hw-8-02/img/hw-8-02_6.png)
-![Скрин 7](https://github.com/eldarkhan/eldar_khannanov_hw/blob/main/eldar-hw-8-02/img/hw-8-02_7.png)
-![Скрин 8](https://github.com/eldarkhan/eldar_khannanov_hw/blob/main/eldar-hw-8-02/img/hw-8-02_8.png)
 ---

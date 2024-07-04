@@ -31,6 +31,6 @@
 ---
 # Решение задания 2:
 
-[Ссылка на crontab](https://github.com/eldarkhan/eldar_khannanov_hw/blob/8d85299890357f1f54e6d6d9d4b16e9d553fde5e/khannanov-sflt-homeworks/3.%20%D0%A0%D0%B5%D0%B7%D0%B5%D1%80%D0%B2%D0%BD%D0%BE%D0%B5%20%D0%BA%D0%BE%D0%BF%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5/crontab)
+[Ссылка на crontab](https://github.com/eldarkhan/eldar_khannanov_hw/blob/0b7da5278c7941ad53c5b3c641db2213951c2e76/khannanov-sflt-homeworks/3.%20%D0%A0%D0%B5%D0%B7%D0%B5%D1%80%D0%B2%D0%BD%D0%BE%D0%B5%20%D0%BA%D0%BE%D0%BF%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5/crontab)
 
 ![Скрин 2](https://github.com/eldarkhan/eldar_khannanov_hw/blob/8d85299890357f1f54e6d6d9d4b16e9d553fde5e/khannanov-sflt-homeworks/3.%20%D0%A0%D0%B5%D0%B7%D0%B5%D1%80%D0%B2%D0%BD%D0%BE%D0%B5%20%D0%BA%D0%BE%D0%BF%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5/img/sflt-lesson3-2.jpg)

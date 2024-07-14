@@ -38,8 +38,13 @@
 ---
 # Решение задания 2:
 
-[Ссылка на haproxy.cfg (изм): ](https://github.com/eldarkhan/eldar_khannanov_hw/blob/933cea87a68145967a62d2a00270570421bd0849/khannanov-sflt-homeworks/2.%20%D0%9A%D0%BB%D0%B0%D1%81%D1%82%D0%B5%D1%80%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F%20%D0%B8%20%D0%B1%D0%B0%D0%BB%D0%B0%D0%BD%D1%81%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B0%20%D0%BD%D0%B0%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%B8/haproxy-2.cfg)
+[Баш скрипт](https://github.com/eldarkhan/eldar_khannanov_hw/blob/2bff3c1eeffe9a3e12052be97e1b63eb464f8e2f/khannanov-sflt-homeworks/1.%20Disaster%20recovery%20%D0%B8%20Keepalived%20-%20Eldar%20Khannanov/eldar-keepalived.sh)
 
-![Скрин 2](https://github.com/eldarkhan/eldar_khannanov_hw/blob/main/khannanov-sflt-homeworks/2.%20%D0%9A%D0%BB%D0%B0%D1%81%D1%82%D0%B5%D1%80%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F%20%D0%B8%20%D0%B1%D0%B0%D0%BB%D0%B0%D0%BD%D1%81%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B0%20%D0%BD%D0%B0%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%B8/img/sflt-lesson2-2.jpg)
+[Конфиг keepalived](https://github.com/eldarkhan/eldar_khannanov_hw/blob/2bff3c1eeffe9a3e12052be97e1b63eb464f8e2f/khannanov-sflt-homeworks/1.%20Disaster%20recovery%20%D0%B8%20Keepalived%20-%20Eldar%20Khannanov/keepalived.conf)
+ 
 
-![Скрин 3](https://github.com/eldarkhan/eldar_khannanov_hw/blob/main/khannanov-sflt-homeworks/2.%20%D0%9A%D0%BB%D0%B0%D1%81%D1%82%D0%B5%D1%80%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F%20%D0%B8%20%D0%B1%D0%B0%D0%BB%D0%B0%D0%BD%D1%81%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B0%20%D0%BD%D0%B0%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%B8/img/sflt-lesson2-3.jpg)
+![Скрин 1](https://github.com/eldarkhan/eldar_khannanov_hw/blob/c89371bbc37d70fe452d15941ad38aa003bc9c50/khannanov-sflt-homeworks/1.%20Disaster%20recovery%20%D0%B8%20Keepalived%20-%20Eldar%20Khannanov/img/hw-1-scr-4.png)
+
+![Скрин 2](https://github.com/eldarkhan/eldar_khannanov_hw/blob/c89371bbc37d70fe452d15941ad38aa003bc9c50/khannanov-sflt-homeworks/1.%20Disaster%20recovery%20%D0%B8%20Keepalived%20-%20Eldar%20Khannanov/img/hw-1-scr-5.png)
+
+![Скрин 3](https://github.com/eldarkhan/eldar_khannanov_hw/blob/c89371bbc37d70fe452d15941ad38aa003bc9c50/khannanov-sflt-homeworks/1.%20Disaster%20recovery%20%D0%B8%20Keepalived%20-%20Eldar%20Khannanov/img/hw-1-scr-6.png)

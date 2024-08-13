@@ -22,7 +22,9 @@ _**Ответ 1.**_
 *Приведите скриншот systemctl status memcached, где будет видно, что memcached запущен.*
 
 _**Ответ 2.**_
-!(https://github.com/eldarkhan/eldar_khannanov_hw/blob/39aebabdffe2520f36fb634a24a7bbbcfa409745/sdb_HW/2.%20%D0%9A%D0%B5%D1%88%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20Redis-memcached/img/Redis-memcached-scr-1.png)
+
+![](https://github.com/eldarkhan/eldar_khannanov_hw/blob/39aebabdffe2520f36fb634a24a7bbbcfa409745/sdb_HW/2.%20%D0%9A%D0%B5%D1%88%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20Redis-memcached/img/Redis-memcached-scr-1.png)
+
 
 
 
@@ -33,7 +35,9 @@ _**Ответ 2.**_
 *Приведите скриншот, на котором видно, что спустя 5 секунд ключи удалились из базы.*
 
 _**Ответ 3.**_
----
+
+![](https://github.com/eldarkhan/eldar_khannanov_hw/blob/39aebabdffe2520f36fb634a24a7bbbcfa409745/sdb_HW/2.%20%D0%9A%D0%B5%D1%88%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20Redis-memcached/img/Redis-memcached-scr-2.png)
+
 
 ### Задание 4. Запись данных в Redis
 
@@ -42,3 +46,6 @@ _**Ответ 3.**_
 *Через redis-cli достаньте все записанные ключи и значения из базы, приведите скриншот этой операции.*
 
 _**Ответ 4.**_
+
+![](https://github.com/eldarkhan/eldar_khannanov_hw/blob/39aebabdffe2520f36fb634a24a7bbbcfa409745/sdb_HW/2.%20%D0%9A%D0%B5%D1%88%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20Redis-memcached/img/Redis-memcached-scr-3.png)
+![](https://github.com/eldarkhan/eldar_khannanov_hw/blob/39aebabdffe2520f36fb634a24a7bbbcfa409745/sdb_HW/2.%20%D0%9A%D0%B5%D1%88%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20Redis-memcached/img/Redis-memcached-scr-4.png)

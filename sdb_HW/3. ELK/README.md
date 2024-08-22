@@ -9,7 +9,8 @@
 
 _**Ответ 1.**_
 
-![](https://github.com/eldarkhan/eldar_khannanov_hw/blob/39aebabdffe2520f36fb634a24a7bbbcfa409745/sdb_HW/2.%20%D0%9A%D0%B5%D1%88%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20Redis-memcached/img/Redis-memcached-scr-4.png)
+![](https://github.com/eldarkhan/eldar_khannanov_hw/blob/7f7cee5f3ed85d20e4bcf705ef2e973ccf7925e6/sdb_HW/3.%20ELK/img/Eldar-hw3-elk-1.png)
+
 
 ---
 
@@ -21,7 +22,7 @@ _**Ответ 1.**_
 
 _**Ответ 2.**_
 
-![](https://github.com/eldarkhan/eldar_khannanov_hw/blob/39aebabdffe2520f36fb634a24a7bbbcfa409745/sdb_HW/2.%20%D0%9A%D0%B5%D1%88%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20Redis-memcached/img/Redis-memcached-scr-4.png)
+![](https://github.com/eldarkhan/eldar_khannanov_hw/blob/7f7cee5f3ed85d20e4bcf705ef2e973ccf7925e6/sdb_HW/3.%20ELK/img/Eldar-hw3-elk-2.png)
 
 ---
 
@@ -33,7 +34,11 @@ _**Ответ 2.**_
 
 _**Ответ 3.**_
 
-![](https://github.com/eldarkhan/eldar_khannanov_hw/blob/39aebabdffe2520f36fb634a24a7bbbcfa409745/sdb_HW/2.%20%D0%9A%D0%B5%D1%88%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20Redis-memcached/img/Redis-memcached-scr-4.png)
+![](https://github.com/eldarkhan/eldar_khannanov_hw/blob/7f7cee5f3ed85d20e4bcf705ef2e973ccf7925e6/sdb_HW/3.%20ELK/img/Eldar-hw3-elk-3.png)
+
+---
+
+![](https://github.com/eldarkhan/eldar_khannanov_hw/blob/7f7cee5f3ed85d20e4bcf705ef2e973ccf7925e6/sdb_HW/3.%20ELK/img/Eldar-hw3-elk-4.png)
 
 
 ---
@@ -46,4 +51,9 @@ _**Ответ 3.**_
 
 _**Ответ 4.**_
 
-![](https://github.com/eldarkhan/eldar_khannanov_hw/blob/39aebabdffe2520f36fb634a24a7bbbcfa409745/sdb_HW/2.%20%D0%9A%D0%B5%D1%88%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20Redis-memcached/img/Redis-memcached-scr-4.png)
+
+
+![](https://github.com/eldarkhan/eldar_khannanov_hw/blob/7f7cee5f3ed85d20e4bcf705ef2e973ccf7925e6/sdb_HW/3.%20ELK/img/Eldar-hw3-elk-5.png)
+---
+![](https://github.com/eldarkhan/eldar_khannanov_hw/blob/7f7cee5f3ed85d20e4bcf705ef2e973ccf7925e6/sdb_HW/3.%20ELK/img/Eldar-hw3-elk-6.png)
+

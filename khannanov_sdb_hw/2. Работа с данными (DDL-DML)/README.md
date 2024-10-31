@@ -8,9 +8,14 @@
 
 1.3. Выполните запрос на получение списка пользователей в базе данных. (скриншот)
 
+![](https://github.com/eldarkhan/eldar_khannanov_hw/blob/5f1389c0f2d9272ce4b56b13c2658fa89fa3340a/khannanov_sdb_hw/2.%20%D0%A0%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%20%D1%81%20%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D0%BC%D0%B8%20(DDL-DML)/IMG/SDBSQL-leeson2-scr-1.jpg)
+
 1.4. Дайте все права для пользователя sys_temp. 
 
 1.5. Выполните запрос на получение списка прав для пользователя sys_temp. (скриншот)
+
+
+![](https://github.com/eldarkhan/eldar_khannanov_hw/blob/5f1389c0f2d9272ce4b56b13c2658fa89fa3340a/khannanov_sdb_hw/2.%20%D0%A0%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%20%D1%81%20%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D0%BC%D0%B8%20(DDL-DML)/IMG/SDBSQL-leeson2-scr-2.jpg)
 
 1.6. Переподключитесь к базе данных от имени sys_temp.
 
@@ -23,6 +28,8 @@ ALTER USER 'sys_test'@'localhost' IDENTIFIED WITH mysql_native_password BY 'pass
 1.7. Восстановите дамп в базу данных.
 
 1.8. При работе в IDE сформируйте ER-диаграмму получившейся базы данных. При работе в командной строке используйте команду для получения всех таблиц базы данных. (скриншот)
+
+![](https://github.com/eldarkhan/eldar_khannanov_hw/blob/5f1389c0f2d9272ce4b56b13c2658fa89fa3340a/khannanov_sdb_hw/2.%20%D0%A0%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%20%D1%81%20%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D0%BC%D0%B8%20(DDL-DML)/IMG/SDBSQL-leeson2-scr-3.jpg)
 
 *Результатом работы должны быть скриншоты обозначенных заданий, а также простыня со всеми запросами.*
 

@@ -77,7 +77,7 @@ customer         | customer_id
 ```
 ## Ответ к заданию 2
 
-![](https://github.com/eldarkhan/eldar_khannanov_hw/blob/5f1389c0f2d9272ce4b56b13c2658fa89fa3340a/khannanov_sdb_hw/2.%20%D0%A0%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%20%D1%81%20%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D0%BC%D0%B8%20(DDL-DML)/IMG/SDBSQL-leeson2-scr-4.jpg)
+![](https://github.com/eldarkhan/eldar_khannanov_hw/blob/293307c9707732e8cf6f2d4f6224e170e771f8f7/khannanov_sdb_hw/2.%20%D0%A0%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%20%D1%81%20%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D0%BC%D0%B8%20(DDL-DML)/IMG/SDBSQL-leeson2-scr-4.jpg)
 
 ```
 +---------------+--------------+

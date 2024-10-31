@@ -1,3 +1,5 @@
+# Домашнее задание к занятию «Работа с данными (DDL/DML)» - Ханнанов Эльдар
+
 
 ### Задание 1
 1.1. Поднимите чистый инстанс MySQL версии 8.0+. Можно использовать локальный сервер или контейнер Docker.
@@ -23,6 +25,41 @@ ALTER USER 'sys_test'@'localhost' IDENTIFIED WITH mysql_native_password BY 'pass
 1.8. При работе в IDE сформируйте ER-диаграмму получившейся базы данных. При работе в командной строке используйте команду для получения всех таблиц базы данных. (скриншот)
 
 *Результатом работы должны быть скриншоты обозначенных заданий, а также простыня со всеми запросами.*
+
+###*Список команд*
+```
+
+sudo apt update
+sudo apt install mysql-server mysql-client
+sudo mysql_secure_installation
+sudo mysql -u root -p
+
+CREATE USER 'sys_temp'@'localhost' IDENTIFIED BY 'password';
+SELECT user,authentication_string,plugin,host FROM mysql.user;
+GRANT ALL PRIVILEGES ON *.* TO 'sys_temp'@'localhost';
+SHOW GRANTS for 'sys_temp'@'localhost';
+exit
+mysql -u sys_temp -p
+exit
+
+wget https://downloads.mysql.com/docs/sakila-db.zip
+unzip sakila-db.zip
+
+mysql -u sys_temp -p
+CREATE DATABASE `sakila`;
+SHOW DATABASES;
+exit
+
+cd sakila-db/
+
+mysql -u sys_temp -p sakila < sakila-schema.sql
+mysql -u sys_temp -p sakila < sakila-data.sql
+
+mysql -u sys_temp -p
+SHOW DATABASES;
+USE sakila;
+SHOW TABLES;
+```
 
 
 ### Задание 2

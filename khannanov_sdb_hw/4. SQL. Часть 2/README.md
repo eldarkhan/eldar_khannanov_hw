@@ -22,7 +22,7 @@ GROUP BY c.store_id
 HAVING COUNT(c.store_id) > 300;
 ```
 
-![1]()
+![1](https://github.com/eldarkhan/eldar_khannanov_hw/blob/026f9f6e466dd5275d53d97f9253877ffe482923/khannanov_sdb_hw/4.%20SQL.%20%D0%A7%D0%B0%D1%81%D1%82%D1%8C%202/img/Eldar-SDBSQL-lesson4-scr1.jpg)
 
 
 
@@ -37,7 +37,7 @@ FROM film
 WHERE `length` > (SELECT AVG(`length`) from film) ;
 ```
 
-![2]()
+![2](https://github.com/eldarkhan/eldar_khannanov_hw/blob/026f9f6e466dd5275d53d97f9253877ffe482923/khannanov_sdb_hw/4.%20SQL.%20%D0%A7%D0%B0%D1%81%D1%82%D1%8C%202/img/Eldar-SDBSQL-lesson4-scr2.jpg)
 
 ---
 
@@ -54,4 +54,4 @@ GROUP BY MONTH(payment_date)
 ORDER BY COUNT(payment_id)  DESC LIMIT 1 ;
 ```
 
-![3]()
+![3](https://github.com/eldarkhan/eldar_khannanov_hw/blob/026f9f6e466dd5275d53d97f9253877ffe482923/khannanov_sdb_hw/4.%20SQL.%20%D0%A7%D0%B0%D1%81%D1%82%D1%8C%202/img/Eldar-SDBSQL-lesson4-scr3.jpg)

@@ -40,4 +40,16 @@
 
 *Приложите скриншоты конфигурации, выполнения работы: состояния и режимы работы серверов.*
 
+**Ответ:**
+
+![1](https://github.com/eldarkhan/eldar_khannanov_hw/blob/0ddfa3bc6a86e90364f0b2d1c041bac850d73a9b/khannanov_sdb_hw/6.%20%D0%A0%D0%B5%D0%BF%D0%BB%D0%B8%D0%BA%D0%B0%D1%86%D0%B8%D1%8F%20%D0%B8%20%D0%BC%D0%B0%D1%81%D1%88%D1%82%D0%B0%D0%B1%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5.%20%D0%A7%D0%B0%D1%81%D1%82%D1%8C%201/img/Eldar-SDBSQL-lesson6-scr1.png)
+
+![2](https://github.com/eldarkhan/eldar_khannanov_hw/blob/0ddfa3bc6a86e90364f0b2d1c041bac850d73a9b/khannanov_sdb_hw/6.%20%D0%A0%D0%B5%D0%BF%D0%BB%D0%B8%D0%BA%D0%B0%D1%86%D0%B8%D1%8F%20%D0%B8%20%D0%BC%D0%B0%D1%81%D1%88%D1%82%D0%B0%D0%B1%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5.%20%D0%A7%D0%B0%D1%81%D1%82%D1%8C%201/img/Eldar-SDBSQL-lesson6-scr2.png)
+
+![3](https://github.com/eldarkhan/eldar_khannanov_hw/blob/0ddfa3bc6a86e90364f0b2d1c041bac850d73a9b/khannanov_sdb_hw/6.%20%D0%A0%D0%B5%D0%BF%D0%BB%D0%B8%D0%BA%D0%B0%D1%86%D0%B8%D1%8F%20%D0%B8%20%D0%BC%D0%B0%D1%81%D1%88%D1%82%D0%B0%D0%B1%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5.%20%D0%A7%D0%B0%D1%81%D1%82%D1%8C%201/img/Eldar-SDBSQL-lesson6-scr3.png)
+
+![4](https://github.com/eldarkhan/eldar_khannanov_hw/blob/0ddfa3bc6a86e90364f0b2d1c041bac850d73a9b/khannanov_sdb_hw/6.%20%D0%A0%D0%B5%D0%BF%D0%BB%D0%B8%D0%BA%D0%B0%D1%86%D0%B8%D1%8F%20%D0%B8%20%D0%BC%D0%B0%D1%81%D1%88%D1%82%D0%B0%D0%B1%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5.%20%D0%A7%D0%B0%D1%81%D1%82%D1%8C%201/img/Eldar-SDBSQL-lesson6-scr4.png)
+
+![5](https://github.com/eldarkhan/eldar_khannanov_hw/blob/0ddfa3bc6a86e90364f0b2d1c041bac850d73a9b/khannanov_sdb_hw/6.%20%D0%A0%D0%B5%D0%BF%D0%BB%D0%B8%D0%BA%D0%B0%D1%86%D0%B8%D1%8F%20%D0%B8%20%D0%BC%D0%B0%D1%81%D1%88%D1%82%D0%B0%D0%B1%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5.%20%D0%A7%D0%B0%D1%81%D1%82%D1%8C%201/img/Eldar-SDBSQL-lesson6-scr5.png)
+
 ---

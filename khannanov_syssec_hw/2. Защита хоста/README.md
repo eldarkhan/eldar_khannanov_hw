@@ -27,5 +27,15 @@
 **Ответ на задание 2**
 
 
-![Скриншот-2](______________)
+
+![Скриншот-1](https://github.com/eldarkhan/eldar_khannanov_hw/blob/f93e3f7aecbd54f73cb9a4d5e69b59160eef84da/khannanov_syssec_hw/2.%20%D0%97%D0%B0%D1%89%D0%B8%D1%82%D0%B0%20%D1%85%D0%BE%D1%81%D1%82%D0%B0/img/Eldar-SYSSEC-lesson2-scr1.png)
+
+
+![Скриншот-2](https://github.com/eldarkhan/eldar_khannanov_hw/blob/f93e3f7aecbd54f73cb9a4d5e69b59160eef84da/khannanov_syssec_hw/2.%20%D0%97%D0%B0%D1%89%D0%B8%D1%82%D0%B0%20%D1%85%D0%BE%D1%81%D1%82%D0%B0/img/Eldar-SYSSEC-lesson2-scr2.png)
+
+
+![Скриншот-3](https://github.com/eldarkhan/eldar_khannanov_hw/blob/f93e3f7aecbd54f73cb9a4d5e69b59160eef84da/khannanov_syssec_hw/2.%20%D0%97%D0%B0%D1%89%D0%B8%D1%82%D0%B0%20%D1%85%D0%BE%D1%81%D1%82%D0%B0/img/Eldar-SYSSEC-lesson2-scr3.png)
+
+
+![Скриншот-4](https://github.com/eldarkhan/eldar_khannanov_hw/blob/f93e3f7aecbd54f73cb9a4d5e69b59160eef84da/khannanov_syssec_hw/2.%20%D0%97%D0%B0%D1%89%D0%B8%D1%82%D0%B0%20%D1%85%D0%BE%D1%81%D1%82%D0%B0/img/Eldar-SYSSEC-lesson2-scr4.png)
 
